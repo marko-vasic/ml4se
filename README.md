@@ -1,9 +1,9 @@
 # ML4SE Seminar Papers
 
 ## List of papers to read
-- Maddison, Chris, and Daniel Tarlow. 
-  "Structured generative models of natural source code." 
-  ICML 2014.
+- Andrew Scott, Johannes Bader, Satish Chandra
+  "Getafix Learning to fix bugs automatically"
+  arxiv 2019.
 - Sifei Luan, Di Yang, Koushik Sen, Satish Chandra
   "Aroma: Code Recommendation via Structural Code Search." 
   arXiv 2018.
@@ -59,3 +59,11 @@ Limitations (Open Questions):
 Possible related work to read:
 - Learning Syntactic Program Transformations from Examples
 - TerpreT: A Probabilistic Programming Language for Program Induction
+
+### [Feb 15th, 2019] Structured generative models of natural source code
+Authors: Maddison, Chris, and Daniel Tarlow. 
+Venue: ICML
+Year: 2014
+Summary:
+- They build a generative model of source code using improvement of
+  PCFG, as well as a PCFG for a baseline.
