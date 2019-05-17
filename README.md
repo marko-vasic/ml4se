@@ -60,7 +60,7 @@ Possible related work to read:
 - Learning Syntactic Program Transformations from Examples
 - TerpreT: A Probabilistic Programming Language for Program Induction
 
-### [Feb 15th, 2019] Structured generative models of natural source code
+### [Feb 22nd, 2019] Structured generative models of natural source code
 Authors: Maddison, Chris, and Daniel Tarlow. 
 Venue: ICML
 Year: 2014
